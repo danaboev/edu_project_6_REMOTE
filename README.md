@@ -5,4 +5,7 @@ edu-bonus-figma(web-developer)
 шаблон-photoshop->figma 
 
 удаленное управление-сайт
+ 
+remote managment company
+
 
