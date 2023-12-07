@@ -1,8 +1,6 @@
 # edu_project_6_REMOTE
-
-edu-bonus-figma(web-developer)
-
-шаблон-photoshop->figma 
+---------------------------------------------------------------
+шаблон-photoshop->figma (bonus)
 
 удаленное управление-сайт
  
