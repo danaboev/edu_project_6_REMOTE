@@ -12,5 +12,6 @@
 -----------------------------------------------
 - html-css
 - bootstrap
-- sass
+- css/sass
 - gulp
+- js
